@@ -16,6 +16,8 @@ public class Employee {
 		Employee ep = new Employee();
 		ep.empId();
 		ep.empName();
+		System.out.println("hemanth");
+		System.out.println("dhari");
 	}
 	
 }
